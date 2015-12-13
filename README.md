@@ -6,7 +6,7 @@
 
 # Usage
 
-	cd /Document/your-app
+	cd /Documents/your-app
 	make-sublime-project
 
 This will create a `your-app.sublime-project` file.
