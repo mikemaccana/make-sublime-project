@@ -1,0 +1,25 @@
+{
+  "name": "make-sublime-project",
+  "version": "1.0.5",
+  "description": "Build a sublime text .project file to highlight private npm modules in your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "make-sublime-project": "index.js"
+  },
+  "repository": {
+  	"git": "https://github.com/mikemaccana/make-sublime-project.git"
+  },
+  "keywords": [
+    "sublime",
+    "sublime-text",
+    "privat-modules"
+  ],
+  "author": "Mike MacCana <mike@certsimple.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^2.2.3"
+  }
+}
