@@ -27,11 +27,11 @@ var sublimeProjectContents = {
 	"folders":
 		[
 			{
-				"path": "."
-			},
-			{
 				"path": "node_modules",
 				"folder_include_patterns": includeDirs,
+			},
+			{
+				"path": "."
 			}
 		]
 }
